@@ -1,4 +1,5 @@
+import css from "./AppName.module.css";
 function AppName() {
-  return <h1 className="text-3xl font-bold underline mb-4">Todo App</h1>;
+  return <h1 className={css.title}>Todo App</h1>;
 }
 export default AppName;

@@ -1,0 +1,8 @@
+.spanitem {
+    display: inline-block;
+    margin: 5px;
+    padding: 10px 15px;
+    background-color: red;
+    border-radius: 5px;
+    font-size: 16px;
+}
